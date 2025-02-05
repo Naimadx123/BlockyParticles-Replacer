@@ -3,9 +3,9 @@
     "DESTROYED_BLOCK": ["LIST OF BLOCKS", "TO REPLACE PARTICLES"],
 
     "GRASS_BLOCK": ["DIRT", "GRAVEL", "STONE"],
-    "SHORT_GRASS": ["AIR"],
-    "TALL_GRASS": ["AIR"],
-    "FIRE": ["AIR"]
+    "SHORT_GRASS": null,
+    "TALL_GRASS": null,
+    "FIRE": null
   },
   "blood": {
     "ATTACKED_ENTITY_TYPE": {"particles": ["LIST OF BLOCKS", "TO REPLACE PARTICLES"], "color": [255,255,255,255]},
