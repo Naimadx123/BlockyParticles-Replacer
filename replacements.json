@@ -2,7 +2,7 @@
   "blocks": {
     "DESTROYED_BLOCK": ["LIST OF BLOCKS", "TO REPLACE PARTICLES"],
 
-    "GRASS_BLOCK": ["DIRT", "GRAVEL", "STONE"],
+    "GRASS_BLOCK": ["DIRT", "GRAVEL", "MOSS_BLOCK"],
     "SHORT_GRASS": null,
     "TALL_GRASS": null,
     "FIRE": null
