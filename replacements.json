@@ -1,0 +1,6 @@
+{
+  "GRASS_BLOCK": ["DIRT", "GRAVEL", "STONE"],
+  "SHORT_GRASS": ["AIR"],
+  "LONG_GRASS": ["AIR"],
+  "FIRE": ["AIR"]
+}
