@@ -8,8 +8,9 @@
     "FIRE": ["AIR"]
   },
   "blood": {
-    "ATTACKED_ENTITY_TYPE": ["LIST OF BLOCKS", "TO REPLACE PARTICLES"],
+    "ATTACKED_ENTITY_TYPE": {"particles": ["LIST OF BLOCKS", "TO REPLACE PARTICLES"], "color": [255,255,255,255]},
 
-    "IRON_GOLEM": ["IRON_BLOCK", "WHITE_STAINED_GLASS"]
+    "IRON_GOLEM": {"particles": ["IRON_BLOCK", "WHITE_STAINED_GLASS"], "color": null},
+    "CAVE_SPIDER": {"particles": ["RED_SHULKER_BOX", "GREEN_SHULKER_BOX", "GREEN_STAINED_GLASS"], "color": [120,0,255,0]}
   }
 }
