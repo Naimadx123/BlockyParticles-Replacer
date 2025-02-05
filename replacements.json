@@ -1,8 +1,15 @@
 {
-  "DESTROYED_BLOCK": ["LIST OF BLOCKS", "TO REPLACE PARTICLES"],
+  "blocks": {
+    "DESTROYED_BLOCK": ["LIST OF BLOCKS", "TO REPLACE PARTICLES"],
 
-  "GRASS_BLOCK": ["DIRT", "GRAVEL", "STONE"],
-  "SHORT_GRASS": ["AIR"],
-  "TALL_GRASS": ["AIR"],
-  "FIRE": ["AIR"]
+    "GRASS_BLOCK": ["DIRT", "GRAVEL", "STONE"],
+    "SHORT_GRASS": ["AIR"],
+    "TALL_GRASS": ["AIR"],
+    "FIRE": ["AIR"]
+  },
+  "blood": {
+    "ATTACKED_ENTITY": ["LIST OF BLOCKS", "TO REPLACE PARTICLES"],
+
+    "IRON_GOLEM": ["IRON_BLOCK", "WHITE_STAINED_GLASS"]
+  }
 }
