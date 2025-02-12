@@ -12,6 +12,7 @@
     "ATTACKED_ENTITY_TYPE": {"particles": ["LIST OF BLOCKS", "TO REPLACE PARTICLES"], "color": [255,255,255,255]},
 
     "CAVE_SPIDER": {"particles": ["RED_SHULKER_BOX", "GREEN_SHULKER_BOX", "GREEN_STAINED_GLASS"], "color": [90,0,85,0]},
+    "CREEPER": {"particles": ["TNT", "LIME_CONCRETE_POWDER", "GREEN_CONCRETE_POWDER", "WHITE_CONCRETE_POWDER"], "color": [90,62,245,52]},
     "END_CRYSTAL": {"particles": ["STRIPPED_CHERRY_LOG", "PURPUR_BLOCK", "GLASS"], "color": null},
     "IRON_GOLEM": {"particles": ["IRON_BLOCK", "WHITE_STAINED_GLASS"], "color": null}
   }
